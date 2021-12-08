@@ -1,0 +1,10 @@
+{
+  "osType": null,
+  "opsType": 1,
+  "connectionUuid": null,
+  "data": "[root@VM_0_10_centos software]# ls\r\n[0m[01;34mcommon[0m                                    [01;31mnginx-win.zip[0m\r\n[01;34mdocker[0m                                    [01;34mngx[0m\r\n[01;31menv1.tar[0m                                  [01;34mrar[0m\r\n[01;34menvset[0m                                    [01;31mrar-5.5.0.tar.gz[0m\r\n[01;34menvset1[0m                                   [01;34mspeed_test[0m\r\n[01;31menvset.tar[0m                                [01;32mspeedtest.py[0m\r\n[01;31mffmpeg-20200826-8f2c1f2-win64-static.zip[0m  [01;34mss5-3.8.9[0m\r\n[01;34mfrp[0m                                       [01;31mss5-3.8.9-8.tar.gz[0m\r\n[01;34mjdk8[0m                                      [01;34mtrojan[0m\r\n[01;31mjdk-8u291-linux-x64.tar.gz[0m                [01;34mtrojan-cli[0m\r\n[01;34mjrerebel[0m                                  [01;31mtrojan-cli-new.zip[0m\r\n[01;34mmsgserver[0m                                 [01;31mtrojan-cli-win.zip[0m\r\n[01;31mnginx.tar.gz[0m                              [01;31m证书.zip[0m\r\n[root@VM_0_10_centos software]# \r\n",
+  "requestNum": "1",
+  "host": null,
+  "connectInfoList": null,
+  "connectInfo": null
+}

@@ -1,0 +1,10 @@
+{
+  "osType": null,
+  "opsType": 1,
+  "connectionUuid": null,
+  "data": "[root@VM_0_10_centos software]# cd ..\r\n[root@VM_0_10_centos ~]# \r\n",
+  "requestNum": "1",
+  "host": null,
+  "connectInfoList": null,
+  "connectInfo": null
+}

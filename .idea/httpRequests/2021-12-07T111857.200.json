@@ -1,0 +1,10 @@
+{
+  "osType": null,
+  "opsType": 1,
+  "connectionUuid": null,
+  "data": "[root@VM_0_10_centos ~]# cd docker;tail my.cnf\r\ntail: cannot open ‘my.cnf’ for reading: No such file or directory\r\n[root@VM_0_10_centos docker]# \r\n",
+  "requestNum": "1",
+  "host": null,
+  "connectInfoList": null,
+  "connectInfo": null
+}

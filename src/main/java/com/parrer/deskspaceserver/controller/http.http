@@ -1,0 +1,45 @@
+# For a quick start check out our HTTP Requests collection (Tools|HTTP Client|Open HTTP Requests Collection).
+#
+# Following HTTP Request Live Templates are available:
+# * 'gtrp' and 'gtr' create a GET request with or without query parameters;
+# * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
+# * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
+POST localhost:8081/deskspaceserver/log/connect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "opsType": 5,
+  "command": "str",
+  "filePath": "str",
+  "connectInfo": {
+  },
+  "connectionUuid": "str",
+  "requestNum": "str"
+}
+
+###
+POST localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "opsType": 1,
+  "command": "ls",
+  "connectionUuid": "d7a50bd5-83e1-4090-897c-67c85487493a",
+  "requestNum": "1"
+}
+
+###
+POST localhost:8081/deskspaceserver/log/disconnect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "opsType": 8,
+  "command": "tail 1a5c6f063e44-slow.log",
+  "connectionUuid": "cce7baca-9175-4795-ab3a-b20d9db8a6be",
+  "requestNum": "1"
+}
+
+###

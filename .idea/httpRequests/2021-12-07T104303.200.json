@@ -1,0 +1,10 @@
+{
+  "osType": null,
+  "opsType": 1,
+  "connectionUuid": null,
+  "data": "[root@VM_0_10_centos ~]# tail 1a5c6f063e44-slow.log\r\n# Time: 2020-12-28T05:50:31.413235Z\r\n# User@Host: root[root] @  [182.150.60.125]  Id:    19\r\n# Query_time: 5.813904  Lock_time: 0.000264 Rows_sent: 1  Rows_examined: 1050000\r\nuse rz;\r\nSET timestamp=1609134631;\r\nselect sum(total) sum from(\r\nselect distinct name,total/num avg,num,total from (\r\nselect name,(select sum(score) total from score s1 where s.name=s1.name) total,\r\n(select count(*) from score s1 where s.name=s1.name) num from score s)t1)t;\r\n[root@VM_0_10_centos ~]# \r\n",
+  "requestNum": "1",
+  "host": null,
+  "connectInfoList": null,
+  "connectInfo": null
+}

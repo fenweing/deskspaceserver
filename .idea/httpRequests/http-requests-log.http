@@ -1,0 +1,717 @@
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "f81dde22-cbfe-4c9a-a9a5-094ebccfaf63",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T111915.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "cd docker;tail my.cnf",
+  "connectionUuid": "f81dde22-cbfe-4c9a-a9a5-094ebccfaf63",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T111857.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls docker",
+  "connectionUuid": "f81dde22-cbfe-4c9a-a9a5-094ebccfaf63",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T111824.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "f81dde22-cbfe-4c9a-a9a5-094ebccfaf63",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T111758.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "f81dde22-cbfe-4c9a-a9a5-094ebccfaf63",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T111718.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/connect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "opsType": 5,
+  "command": "str",
+  "filePath": "str",
+  "connectInfo": {
+    "user": "root",
+    "host": "www.tuanbaol.com",
+    "remotePort": 22,
+    "password": "?fengweI!",
+    "requestNum": null
+  },
+  "connectionUuid": "str",
+  "requestNum": "str"
+}
+
+<> 2021-12-07T111710.200.txt
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "14a31939-6534-40c2-b409-7c2f861cd502",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T111643.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/disconnect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "tail 1a5c6f063e44-slow.log",
+  "connectionUuid": "14a31939-6534-40c2-b409-7c2f861cd502",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "14a31939-6534-40c2-b409-7c2f861cd502",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T111634.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/connect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "opsType": 5,
+  "command": "str",
+  "filePath": "str",
+  "connectInfo": {
+    "user": "root",
+    "host": "www.tuanbaol.com",
+    "remotePort": 22,
+    "password": "?fengweI!",
+    "requestNum": null
+  },
+  "connectionUuid": "str",
+  "requestNum": "str"
+}
+
+<> 2021-12-07T111626.200.txt
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/connect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "opsType": 5,
+  "command": "str",
+  "filePath": "str",
+  "connectInfo": {
+    "user": "root",
+    "host": "www.tuanbaol.com",
+    "remotePort": 22,
+    "password": "?fengweI!",
+    "requestNum": null
+  },
+  "connectionUuid": "str",
+  "requestNum": "str"
+}
+
+<> 2021-12-07T111621.500.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "6e733ad5-e3f6-470e-954d-bf866469366a",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/connect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "opsType": 5,
+  "command": "str",
+  "filePath": "str",
+  "connectInfo": {
+    "user": "root",
+    "host": "www.tuanbaol.com",
+    "remotePort": 22,
+    "password": "?fengweI!",
+    "requestNum": null
+  },
+  "connectionUuid": "str",
+  "requestNum": "str"
+}
+
+<> 2021-12-07T110847.200.txt
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/connect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "opsType": 5,
+  "command": "str",
+  "filePath": "str",
+  "connectInfo": {
+    "user": "root",
+    "host": "www.tuanbaol.com",
+    "remotePort": 22,
+    "password": "?fengweI!",
+    "requestNum": null
+  },
+  "connectionUuid": "str",
+  "requestNum": "str"
+}
+
+<> 2021-12-07T110827.500.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/disconnect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "tail 1a5c6f063e44-slow.log",
+  "connectionUuid": "bf7a2149-cab4-4636-b2b4-7439cacb79ab",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "bf7a2149-cab4-4636-b2b4-7439cacb79ab",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "bf7a2149-cab4-4636-b2b4-7439cacb79ab",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "bf7a2149-cab4-4636-b2b4-7439cacb79ab",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/connect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "opsType": 5,
+  "command": "str",
+  "filePath": "str",
+  "connectInfo": {
+    "user": "root",
+    "host": "www.tuanbaol.com",
+    "remotePort": 22,
+    "password": "?fengweI!",
+    "requestNum": null
+  },
+  "connectionUuid": "str",
+  "requestNum": "str"
+}
+
+<> 2021-12-07T110526.200.txt
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T105813.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/disconnect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "tail 1a5c6f063e44-slow.log",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T105751.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/disconnect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "tail 1a5c6f063e44-slow.log",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/disconnect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "tail 1a5c6f063e44-slow.log",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/disconnect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "tail 1a5c6f063e44-slow.log",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T105508.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/disconnect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "tail 1a5c6f063e44-slow.log",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T105422.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "tail 1a5c6f063e44-slow.log",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T105358.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "tail 1a5c6f063e44-slow.log",
+  "connectionUuid": "3432130d-4518-4691-a8ab-9939bc6e188d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/connect
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "opsType": 5,
+  "command": "str",
+  "filePath": "str",
+  "connectInfo": {
+    "user": "root",
+    "host": "www.tuanbaol.com",
+    "remotePort": 22,
+    "password": "?fengweI!",
+    "requestNum": null
+  },
+  "connectionUuid": "str",
+  "requestNum": "str"
+}
+
+<> 2021-12-07T105341.200.txt
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "tail 1a5c6f063e44-slow.log",
+  "connectionUuid": "8060585c-8b4a-4ee2-8313-742b76ef202d",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T104303.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ll",
+  "connectionUuid": "8060585c-8b4a-4ee2-8313-742b76ef202d",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T104244.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "cd ..",
+  "connectionUuid": "8060585c-8b4a-4ee2-8313-742b76ef202d",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T104233.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "8060585c-8b4a-4ee2-8313-742b76ef202d",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T104215.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "",
+  "connectionUuid": "8060585c-8b4a-4ee2-8313-742b76ef202d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "",
+  "connectionUuid": "8060585c-8b4a-4ee2-8313-742b76ef202d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "",
+  "connectionUuid": "8060585c-8b4a-4ee2-8313-742b76ef202d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "8060585c-8b4a-4ee2-8313-742b76ef202d",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T104035.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "cd software",
+  "connectionUuid": "8060585c-8b4a-4ee2-8313-742b76ef202d",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T104024.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "date",
+  "connectionUuid": "8060585c-8b4a-4ee2-8313-742b76ef202d",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T103947.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "8060585c-8b4a-4ee2-8313-742b76ef202d",
+  "requestNum": "1"
+}
+
+<> 2021-12-07T103812.200.json
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "8060585c-8b4a-4ee2-8313-742b76ef202d",
+  "requestNum": "1"
+}
+
+###
+
+POST http://localhost:8081/deskspaceserver/log/command
+Content-Type: application/json
+
+{
+  "osType": 1,
+  "command": "ls",
+  "connectionUuid": "8060585c-8b4a-4ee2-8313-742b76ef202d",
+  "requestNum": "1"
+}
+
+###
+

@@ -1,0 +1,10 @@
+{
+  "osType": null,
+  "opsType": 1,
+  "connectionUuid": null,
+  "data": "Last login: Tue Dec  7 10:53:52 2021 from 182.150.60.125\r\nls\r\n[root@VM_0_10_centos ~]# ls\r\n1a5c6f063e44-slow.log    history     [0m[01;34mprac[0m           [01;34mwechat[0m\r\n[01;34mdoc[0m                      [01;34mletencrypt[0m  [01;34msh[0m             [01;31mydeyes_linux64.tar.gz[0m\r\n[01;34mdocker[0m                   log.log     [01;34msoftware[0m       [01;31myshop-api-1.9.jar[0m\r\ndown_form.html?code=622  my.cnf      [01;34mtmp[0m            [01;31m冯伟.zip[0m\r\n[01;34mhadoop[0m                   mysql.cnf   [01;31munit-test.rar[0m  [01;35m无标题.png[0m\r\n[root@VM_0_10_centos ~]# \r\n",
+  "requestNum": "1",
+  "host": null,
+  "connectInfoList": null,
+  "connectInfo": null
+}

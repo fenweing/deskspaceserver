@@ -1,0 +1,10 @@
+{
+  "osType": null,
+  "opsType": 1,
+  "connectionUuid": null,
+  "data": "[root@VM_0_10_centos ~]# ll\r\ntotal 40156\r\n-rw-r-----  1 root root      618 Dec 28  2020 1a5c6f063e44-slow.log\r\ndrwxr-xr-x  6 root root     4096 Aug  2 16:45 [0m[01;34mdoc[0m\r\ndrwxr-xr-x  5 root root     4096 Nov 26 12:31 [01;34mdocker[0m\r\n-rw-r--r--  1 root root   142744 Mar 22  2021 down_form.html?code=622\r\ndrwxr-xr-x  2 root root     4096 Jun  1  2021 [01;34mhadoop[0m\r\n-rw-r--r--  1 root root   130663 Jul 30 11:57 history\r\ndrwxr-xr-x  3 root root     4096 Nov  8 13:18 [01;34mletencrypt[0m\r\n-rw-r--r--  1 root root   698061 Jan 22  2021 log.log\r\n-rw-rw-r--  1 root root     1080 Dec 12  2020 my.cnf\r\n-rw-r--r--  1 root root     1294 Sep 23  2020 mysql.cnf\r\ndrwxr-xr-x  2 root root     4096 Jul  5  2020 [01;34mprac[0m\r\ndrwxr-xr-x  3 root root     4096 Jun 18  2020 [01;34msh[0m\r\ndrwxr-xr-x 16 root root     4096 Nov 19 15:58 [01;34msoftware[0m\r\ndrwxr-xr-x  2 root root     4096 May  8  2021 [01;34mtmp[0m\r\n-rw-r--r--  1 root root   119363 Jan  8  2021 [01;31munit-test.rar[0m\r\ndrwxr-xr-x  3 root root     4096 May  7  2021 [01;34mwechat[0m\r\n-rw-r--r--  1 root root 19073802 Jun 16 10:58 [01;31mydeyes_linux64.tar.gz[0m\r\n-rw-r--r--  1 root root  8388608 May 20  2021 [01;31myshop-api-1.9.jar[0m\r\n-rw-r--r--  1 root root 12449619 Aug 28  2020 [01;31m冯伟.zip[0m\r\n-rw-r--r--  1 root root    57138 Aug 28  2020 [01;35m无标题.png[0m\r\n[root@VM_0_10_centos ~]# \r\n",
+  "requestNum": "1",
+  "host": null,
+  "connectInfoList": null,
+  "connectInfo": null
+}
